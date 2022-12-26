@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"url-shorter/services/randomurl"
+
+	"github.com/firdavs9512/urlshorter/services/random"
 )
 
 func main() {
-	dhvbdh := createurl()
-	fmt.Println(dhvbdh)
+
+	fmt.Println(random.RandomURL(15))
 }

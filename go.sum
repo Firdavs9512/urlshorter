@@ -1,0 +1,4 @@
+github.com/jenazads/gomail v0.0.0-20190819174001-821728186f39 h1:UcqQ2ROeftmS6IXzbFnJYQaPuJGunAVNBR3u7B/78wI=
+github.com/jenazads/gomail v0.0.0-20190819174001-821728186f39/go.mod h1:j4PGeTSKAK4jGBb/jSO6FpscDlEDoOevY1z1M8QdtWk=
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
