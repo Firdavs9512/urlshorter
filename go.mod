@@ -1,3 +1,3 @@
-module github.com/firdavs9512/url-shorter
+module url-shorter
 
 go 1.19
